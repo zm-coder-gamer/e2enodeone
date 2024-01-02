@@ -1,0 +1,19 @@
+{
+  "name": "e2enodeone",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@wdio/cli": "^8.27.1",
+    "chai": "^5.0.0",
+    "chromedriver": "^120.0.1",
+    "selenium-webdriver": "^4.16.0",
+    "webdriverio": "^8.27.0"
+  }
+}
