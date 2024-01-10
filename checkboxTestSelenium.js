@@ -1,3 +1,4 @@
+  // In command line first run "npm install selenium-webdriver chromedriver" then run "node checkboxTestSelenium.js"
 const { Builder, By } = require('selenium-webdriver');
 const chrome = require('selenium-webdriver/chrome');
 const assert = require('assert');
