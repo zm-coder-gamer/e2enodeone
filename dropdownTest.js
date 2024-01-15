@@ -1,4 +1,4 @@
-  // In command line first run "npm install selenium-webdriver chromedriver" then run "node checkboxTestSelenium.js"
+  // In command line first run "npm install selenium-webdriver chromedriver" then run "node dropdownTest.js"
 const { Builder, By, Key, until } = require('selenium-webdriver');
 
 async function testDropdown() {
