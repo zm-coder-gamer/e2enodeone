@@ -1,9 +1,28 @@
 # e2enodeone
 
-Starting a new basic web testing framework project\
-It will grow as I learn more\
-These will be javascript based project that uses selenium for browser automation and plain old js for everything else.\
-My next goal is to create a professional looking project sturcture.\
+* Instructions to run the tests
 
-Fixed the project, gonna add more project revolving around testing the internet herokuapp
+  from the command line do the following
+  clone this repo
+  ```bash
+
+  git clone https://github.com/zm-coder-gamer/e2enodeone.git
+  
+  ```
+  * cd to the repo directory; e2enodeone
+  ```bash
+  cd e2enodeone
+  ```
+
+  * install packages
+ ```bash
+npm install
+```
+  * run the tests
+```bash
+
+npm node checkboxTestSelenium.js
+
+```
+  * 
 
