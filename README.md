@@ -1,4 +1,8 @@
 # e2enodeone
+* Plans
+Make a working pipeline/
+add more tests
+
 
 * Instructions to run the tests
 
