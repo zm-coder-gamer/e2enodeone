@@ -1,6 +1,6 @@
 # e2enodeone
 * Plans \
-Make a working pipeline \
+Create a working pipeline \
 Add more tests 
 
 
