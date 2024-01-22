@@ -21,6 +21,8 @@ async function testDropdown() {
     // Click on the option to select it
     await option1Element.click();
 
+  
+    
     // Wait for a moment to see the selected option (optional)
     await driver.sleep(2000);
 
