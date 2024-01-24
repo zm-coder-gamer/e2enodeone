@@ -1,7 +1,8 @@
 # e2enodeone
 * Plans \
 Create a working pipeline \
-Add more tests to pipeline
+Add more tests to pipeline \
+make tests assert result
 
 
 * Instructions to run the tests
