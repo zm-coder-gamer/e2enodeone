@@ -2,7 +2,7 @@
 * Plans \
 Create a working pipeline \
 Add more tests to pipeline \
-make tests assert result
+make tests assert result (dropdownTest)
 
 
 * Instructions to run the tests
