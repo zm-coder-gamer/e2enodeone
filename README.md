@@ -2,12 +2,12 @@
 * Plans \
 Create a working pipeline \
 Add more tests to pipeline \
-make tests assert result (dropdownTest.js)
+Make tests assert a result (dropdownTest.js)
 
 
 * Instructions to run the tests
 
-  from the command line do the following
+  From the command line do the following
   clone this repo
   ```bash
 
