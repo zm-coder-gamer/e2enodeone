@@ -5,7 +5,7 @@ Add more tests to pipeline \
 Make tests assert a result (dropdownTest.js)
 
 
-* Instructions to run the tests
+* Instructions on how to run the tests
 
   From the command line do the following
   clone this repo
