@@ -11,6 +11,8 @@ It typically uses a testing framework, such as Mocha, for running tests.
 web-testing-project/
 ├── package.json
 ├── node_modules/
+├── pages/
+│   └── checkboxPage.js
 ├── tests/
 │   └── checkboxTestSelenium.js
 ├── src/
